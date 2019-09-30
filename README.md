@@ -12,8 +12,8 @@ Find the circuit diagram in this folder.
 - Arduino Board
 - Breadboard
 - 5 LEDs
-- 1 button
-- 2 photoresistors (pr potentiometers, other analog sensors)
+- 1 button (or other digital sensor)
+- 2 photoresistors (or potentiometers/other analog sensors)
 
 - 3 10k ohm resistors for button and photoresistors
 - 5 330 ohm resistors for LEDs
