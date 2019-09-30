@@ -9,15 +9,15 @@ Find the circuit diagram in this folder.
 
 ## Hardware List
 
-Arduino Board
-Breadboard
-5 LEDs
-1 button
-2 photoresistors (pr potentiometers, other analog sensors)
+- Arduino Board
+- Breadboard
+- 5 LEDs
+- 1 button
+- 2 photoresistors (pr potentiometers, other analog sensors)
 
-3 10k ohm resistors for button and photoresistors
-5 330 ohm resistors for LEDs
-Jumper wires
+- 3 10k ohm resistors for button and photoresistors
+- 5 330 ohm resistors for LEDs
+- Jumper wires
 
 ## Credits
 
