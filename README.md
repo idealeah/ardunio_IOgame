@@ -17,7 +17,7 @@ Breadboard
 5 330 ohm resistors for LEDs
 Jumper wires
 
-### Credits
+## Credits
 
 Game update by Leah Willemin, September 2019.
 Original sketch by Tom Igoe.
